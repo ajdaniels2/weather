@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://ajdaniels2.github.io/weather/",
   "dependencies": {
-    "bootstrap": "^3.3.7",
+    "bootstrap": "^3.4.1",
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
     "react-scripts": "2.0.5"
